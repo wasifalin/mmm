@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<record>
+    <place>
+        <name>Ballari</name>
+        <lati> 15.14</lati>
+        <long> 74.58 </long>
+        <temp> 35</temp>
+        <humid> 90</humid>
+    </place>
+    <place>
+        <name>Mysore</name>
+        <lati> 12.295</lati>
+        <long> 76.639 </long>
+        <temp> 32</temp>
+        <humid> 87</humid>
+    </place>
+</record>

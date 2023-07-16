@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Ballari",
+        "lati": "15.14",
+        "long": "74.58",
+        "temp": 35,
+        "humid": 90
+    },
+    {
+        "name": "Mysore",
+        "lati": "12.295",
+        "long": "76.639",
+        "temp": 32,
+        "humid": 87
+    }
+]
